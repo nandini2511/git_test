@@ -1,1 +1,2 @@
-this is the second file in this repo
+Hello!
+This is the first assignment
